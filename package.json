@@ -1,0 +1,16 @@
+{
+  "name": "second-hand-car-sale-demo-dapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@arcblock/forge-wallet": "^1.3.3",
+    "@arcblock/mcrypto": "^1.2.13"
+  }
+}
